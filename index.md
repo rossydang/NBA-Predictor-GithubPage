@@ -49,10 +49,10 @@ Our objective is to build a model that will take in the statistics of two NBA te
 
 ## Contribution Table
 
-![Contribution Table](https://github.gatech.edu/rdang31/NBA-Predictor-GithubPage/blob/main/assets/images/contribution_table.png)
+![Contribution Table](https://github.com/rossydang/NBA-Predictor-GithubPage/blob/main/assets/images/contribution_table.png)
 
 ## Gantt Chart
-![Gantt](https://github.gatech.edu/rdang31/NBA-Predictor-GithubPage/blob/main/assets/images/Gantt.png)
+![Gantt](https://github.com/rossydang/NBA-Predictor-GithubPage/blob/main/assets/images/Gantt.png)
 
 
 
