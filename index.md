@@ -52,7 +52,7 @@ Our objective is to build a model that will take in the statistics of two NBA te
 ![Contribution Table](https://raw.githubusercontent.com/rossydang/NBA-Predictor-GithubPage/main/assets/images/contribution_table.png)
 
 ## Gantt Chart
-[![Alt text for broken image link](assets/logo.png)](https://example.com)
+![Gantt](https://raw.githubusercontent.com/rossydang/NBA-Predictor-GithubPage/main/assets/images/Gantt.png)
 
 
 
